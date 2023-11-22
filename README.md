@@ -23,5 +23,11 @@ Open http://localhost:3000 to view it in your browser.
 Open http://127.0.0.1:8000/docs to view it in your browser.
 
 
+![Screenshot from 2023-11-22 16-56-21](https://github.com/AndriyKostenko/React-FastAPI-MongoDB_ToDo_App/assets/91188777/279ec73a-2de4-4d24-bc93-a82542c31336)
+
+![Screenshot from 2023-11-22 16-57-47](https://github.com/AndriyKostenko/React-FastAPI-MongoDB_ToDo_App/assets/91188777/8616723f-9ffd-410b-a6d3-5c1614446da4)
+
+![Screenshot from 2023-11-22 16-56-40](https://github.com/AndriyKostenko/React-FastAPI-MongoDB_ToDo_App/assets/91188777/dbea7daf-74dd-494f-abf2-77e74b235f69)
+
 
 
