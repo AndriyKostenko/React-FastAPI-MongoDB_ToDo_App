@@ -1,0 +1,16 @@
+# General exclusions
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Backend (FastAPI) exclusions
+venv/
+
+# Frontend (React) exclusions
+node_modules/
+build/
+dist/
+
+# Database (MongoDB) exclusions
+data/
